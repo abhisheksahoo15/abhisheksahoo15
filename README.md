@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hello, I'm Abhishek Sahoo 👋
 
-<!--
-**abhisheksahoo15/abhisheksahoo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Data Science | AI/ML | Web Development | Data Analyst
 
-Here are some ideas to get you started:
+I’m a passionate software developer with a diverse skill set focused on creating innovative and data-driven solutions. I enjoy solving complex problems, building scalable applications, and leveraging data for impactful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills and Technologies
+- **Languages**: Python, Java, C, C++, SQL.
+- **Frameworks**: Django, .NET, HTML/CSS.
+- **Data Science & Machine Learning**: Pandas, NumPy, Matplotlib, Scikit-learn.
+- **Database** : MySql, DBMS, PhpMyAdmin 
+- **Tools**: GitHub, Power BI, IntelliJ IDEA, Visual Studio Code, PyCharm, MySQL, SQLite.
+- **Core Competencies**: Data Structures & Algorithms, Data Analysis, Web Development, AI/ML Models ,Object orientd Programming Deep concepts.
+
+## 🚀 Projects
+### 1. My Portfolio Website 
+- **Technology**: Python , MySQL, HTML, CSS, JAVASCRIPT
+- **Description**: This is my Portfolio site where you can deeply know about me and my certification and skill set .
+- - [WebSite link](https://abhishekportfolio.online)
+
+### 2. Supermarket Data Analysis
+- **Technology**: Python (Pandas, NumPy, Matplotlib), MySQL, Power BI
+- **Description**: Analyzed over 1 lakh data points to provide business insights.
+
+### 3. Work Lancer – Freelancing Platform
+- **Technology**: HTML, CSS, JavaScript, Python (Django), SQLite
+- **Description**: Built a scalable platform that connects freelancers with clients.
+
+## 📫 Let's connect:
+- [LinkedIn](https://linkedin.com/in/abhisheksahoo15)
+- [GitHub](https://github.com/abhishek15)
